@@ -19,3 +19,9 @@
 Kafka Consumer обрабатывает сообщения и выводит текущие элементы
 
 <img src="./materials/output_consumer.png" />
+
+## Kafka
+
+Кафку кручу в докере, контейнер создается через компоузник
+
+<img src="./materials/docker.png" />
