@@ -10,4 +10,4 @@
 
 ### gRPC-client
 Клиент отправляет Add, Update, Delete команды
-<img src="./materials/client_working" />
+<img src="./materials/client_working.png" />
