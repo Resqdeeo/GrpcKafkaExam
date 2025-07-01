@@ -13,3 +13,9 @@
 Клиент отправляет Add, Update, Delete команды
 
 <img src="./materials/client_working.png" />
+
+### Kafka Consumer
+
+Kafka Consumer обрабатывает сообщения и выводит текущие элементы
+
+<img src="./materials/output_consumer.png" />
