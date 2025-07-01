@@ -1,0 +1,11 @@
+C:\Users\Vlaze\RiderProjects\GrpcKaflaSolution\Protos\bin\Debug\net9.0\Protos.deps.json
+C:\Users\Vlaze\RiderProjects\GrpcKaflaSolution\Protos\bin\Debug\net9.0\Protos.dll
+C:\Users\Vlaze\RiderProjects\GrpcKaflaSolution\Protos\bin\Debug\net9.0\Protos.pdb
+C:\Users\Vlaze\RiderProjects\GrpcKaflaSolution\Protos\obj\Debug\net9.0\Protos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlaze\RiderProjects\GrpcKaflaSolution\Protos\obj\Debug\net9.0\Protos.AssemblyInfoInputs.cache
+C:\Users\Vlaze\RiderProjects\GrpcKaflaSolution\Protos\obj\Debug\net9.0\Protos.AssemblyInfo.cs
+C:\Users\Vlaze\RiderProjects\GrpcKaflaSolution\Protos\obj\Debug\net9.0\Protos.csproj.CoreCompileInputs.cache
+C:\Users\Vlaze\RiderProjects\GrpcKaflaSolution\Protos\obj\Debug\net9.0\Protos.dll
+C:\Users\Vlaze\RiderProjects\GrpcKaflaSolution\Protos\obj\Debug\net9.0\refint\Protos.dll
+C:\Users\Vlaze\RiderProjects\GrpcKaflaSolution\Protos\obj\Debug\net9.0\Protos.pdb
+C:\Users\Vlaze\RiderProjects\GrpcKaflaSolution\Protos\obj\Debug\net9.0\ref\Protos.dll

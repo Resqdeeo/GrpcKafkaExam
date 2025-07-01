@@ -1,0 +1,21 @@
+﻿syntax = "proto3";
+
+service ItemService {
+  rpc AddItem (ItemRequest) returns (ItemResponse);
+  rpc UpdateItem (ItemRequest) returns (ItemResponse);
+  rpc DeleteItem (DeleteRequest) returns (ItemResponse);
+}
+
+message ItemRequest {
+  string id = 1;
+  string name = 2;
+  string description = 3;
+}
+
+message DeleteRequest {
+  string id = 1;
+}
+
+message ItemResponse {
+  string status = 1;
+}

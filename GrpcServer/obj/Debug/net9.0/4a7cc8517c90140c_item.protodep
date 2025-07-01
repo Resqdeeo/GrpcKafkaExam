@@ -1,0 +1,2 @@
+obj\Debug\net9.0/Item.cs \
+obj\Debug\net9.0/ItemGrpc.cs: ../Protos/Protos/item.proto

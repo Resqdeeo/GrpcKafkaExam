@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uLtOk70ZtzI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vlaze\\RiderProjects\\GrpcKaflaSolution\\KafkaConsumer\\KafkaConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlaze\\.nuget\\packages\\confluent.kafka\\2.10.1\\confluent.kafka.2.10.1.nupkg.sha512",
+    "C:\\Users\\Vlaze\\.nuget\\packages\\librdkafka.redist\\2.10.1\\librdkafka.redist.2.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}
