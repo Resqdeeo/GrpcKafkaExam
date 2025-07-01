@@ -9,5 +9,7 @@
 ## Скриншоты с работой приложений:
 
 ### gRPC-client
+
 Клиент отправляет Add, Update, Delete команды
+
 <img src="./materials/client_working.png" />
