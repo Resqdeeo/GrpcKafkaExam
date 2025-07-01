@@ -12,7 +12,7 @@
 
 Клиент отправляет Add, Update, Delete команды
 
-<img src="./materials/client_working.png" />
+<img src="./materials/client_2.png" />
 
 ### Kafka Consumer
 
